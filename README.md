@@ -1,4 +1,4 @@
-# Typical journey of bootstrapping ML
+# From a single notebook implementation to scaling on Sagemaker
 ## The Notebooks
 There are two notebooks in this repo:  
 - pytorch-nn-multiclass-classifier.ipynb
